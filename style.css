@@ -4,13 +4,14 @@ p {
 }
 
 h1 {
-  font-family:Helvetica;
+  font-family: Helvetica;
+  color: red;
 }
 
 h3 {
-  font-family:Helvetica;
+  font-family: Helvetica;
 }
 
 h4 {
-  font-family:Impact;
+  font-family: Impact;
 }
