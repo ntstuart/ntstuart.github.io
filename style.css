@@ -1,6 +1,11 @@
 .header {
-  font-family: 'Trebuchet MS', Helvetica;
+  font-family: Helvetica;
   color: #000080;
+}
+
+.header h1 {
+  font-size: 65px;
+  font-family: "Trebuchet MS";
 }
 
 h1 {
