@@ -3,14 +3,10 @@ h1 {
   color: red;
 }
 
-h3 {
+h3, h4 {
   font-family: Helvetica;
 }
 
-h4 {
-  font-family: Impact;
-}
-
-body {
-  color: blue;
+ul {
+  font-family: Sans-Serif;
 }
