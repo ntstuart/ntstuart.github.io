@@ -5,6 +5,8 @@
   text-align: center;
   background: #3B3B40;
   border-radius: 25px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
 .employment {
@@ -13,8 +15,8 @@
   border: 1px solid #BEC3C6;
   background: #3A3A4A;
   border-radius: 25px;
-  margin-left: 25px;
-  margin-right: 25px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
 .employment a {
@@ -28,6 +30,8 @@
   border: 1px solid #BEC3C6;
   background: #3A3A4A;
   border-radius: 25px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
   
 
@@ -37,6 +41,8 @@
   border: 1px solid #BEC3C6;
   background: #3A3A4A;
   border-radius: 25px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
   
 #name {
