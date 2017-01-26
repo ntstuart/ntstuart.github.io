@@ -12,7 +12,9 @@
 .employment {
   font-family: Helvetica;
   color: #BEC3C6;
-  border: 1px solid #BEC3C6;
+  border-bottom: 1px solid #BEC3C6;
+  border-left: 1px solid #BEC3C6;
+  border-right: 1px solid #BEC3C6;
   background: #3A3A4A;
   border-radius: 25px;
   margin-left: 40px;
