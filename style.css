@@ -13,6 +13,11 @@
   background: #3A3A4A;
 }
 
+.employment a {
+  color: #BEC3C6;
+  text-decoration: none;
+}
+
 .education {
   font-family: Helvetica;
   color: #BEC3C6;
@@ -54,7 +59,4 @@ ul {
   font-family: Helvetica;
 }
 
-a {
-  color: black;
-  text-decoration: none;
-}
+
