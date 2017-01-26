@@ -22,7 +22,7 @@
   font-family: Helvetica;
   color: #BEC3C6;
   border: 1px solid #BEC3C6;
-  background: #969072
+  background: #3A3A4A;
 }
   
 
@@ -30,13 +30,14 @@
   font-family: Helvetica;
   color: #BEC3C6;
   border: 1px solid #BEC3C6;
-  background: #9C905C;
+  background: #3A3A4A;
 }
   
 #name {
   font-size: 65px;
   font-family: "Trebuchet MS";
   text-align: center;
+  
 }
 
 h1 {
