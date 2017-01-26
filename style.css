@@ -1,11 +1,18 @@
 .heading {
-  font-family: Impact;
+  font-family: Helvetica;
   color: #000080;
   border: 1px solid black;
   text-align: center;
   background: #BEC3C6;
 }
 
+.employment {
+  font-family: Helvetica;
+  color:#000080
+  border: 1px solid black;
+  background: #C0D890
+}
+  
 #name {
   font-size: 65px;
   font-family: "Trebuchet MS";
