@@ -58,5 +58,6 @@
 }
 
 hr {
+  height: 2px;
   background-color: #C70039;
 }
