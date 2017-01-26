@@ -1,6 +1,9 @@
 .heading {
   font-family: Impact;
   color: #000080;
+  border: 1px solid black;
+  text-align: center;
+  background: grey;
 }
 
 #name {
@@ -10,10 +13,17 @@
 
 h1 {
   font-family: Helvetica;
-  border: 5px solid black;
 }
 
-h2, h3, h4 {
+h2 {
+  font-family: Helvetica;
+}
+
+h3 {
+  font-family: Helvetica;
+}
+
+h4 {
   font-family: Helvetica;
 }
 
