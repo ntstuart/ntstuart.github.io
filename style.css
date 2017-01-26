@@ -1,6 +1,7 @@
 .header {
   font-family: Helvetica;
   color: #000080;
+  border: 5px solid black;
 }
 
 #name {
