@@ -1,7 +1,7 @@
 .heading {
   font-family: Helvetica;
   color: #BEC3C6;
-  border: 5px solid #ED4337;
+  border: 4px solid #C70039;
   text-align: center;
   background: #3B3B40;
   border-radius: 25px;
@@ -58,5 +58,5 @@
 }
 
 hr {
-  background-color: #ED4337;
+  background-color: #C70039;
 }
