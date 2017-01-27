@@ -59,5 +59,6 @@
 
 div hr {
   height: 2px;
+  border: .1px solid #C70039;
   background-color: #C70039;
 }
