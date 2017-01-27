@@ -11,7 +11,18 @@ body {
   border-radius: 25px;
   margin-left: 40px;
   margin-right: 40px;
+}
+
+#name {
+  font-size: 65px;
+  font-family: "Trebuchet MS";
+  text-align: center;
   margin-bottom: 35px;
+}
+
+#name a {
+  color: #BEC3C6;
+  text-decoration: none;
 }
 
 .employment {
@@ -54,17 +65,6 @@ body {
   margin-right: 40px;
   padding-left: 35px;
   padding-right: 35px;
-}
-  
-#name {
-  font-size: 65px;
-  font-family: "Trebuchet MS";
-  text-align: center; 
-}
-
-#name a {
-  color: #BEC3C6;
-  text-decoration: none;
 }
 
 hr {
