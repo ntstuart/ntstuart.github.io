@@ -57,6 +57,11 @@
   text-align: center; 
 }
 
+#name a {
+  color: #BEC3C6;
+  text-decoration: none;
+}
+
 hr {
   height: 1.9px;
   border: .1px solid #C70039;
